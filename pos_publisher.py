@@ -4,7 +4,7 @@ import rospy
 # we are going to read turtlesim/Pose messages this time
 from turtlesim.msg import Pose
 #importing the new message from our package
-from ros_intro_lectures.msg import Shortpose
+from robotics_lab1.msg import Turtlecontrol
 # for radians to degrees conversions
 import math
 
